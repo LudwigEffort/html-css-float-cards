@@ -14,6 +14,7 @@ body    {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    margin-top: 50px;
 }
 
 .margin_bottom  {
@@ -27,6 +28,9 @@ img {
 .img_left   {
     float: left;
     margin-right: 0.5rem;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
     
 }
 
@@ -37,6 +41,8 @@ img {
     width: 350px;
     text-align: left;
     margin-right: 1.5rem;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px lightgrey;
 }
 
 h1  {
