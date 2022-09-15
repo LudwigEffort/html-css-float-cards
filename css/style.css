@@ -6,7 +6,7 @@
 
 
 body    {
-    background-color: red;
+    background-color: white;
 }
 
 .container  {
@@ -31,11 +31,20 @@ img {
 }
 
 .label  {
-    background-color: white;
+    background-color: #0f0e17;
+    color: white;
     display: inline-block;
     width: 350px;
     text-align: left;
     margin-right: 1.5rem;
+}
+
+h1  {
+    color: #c44255;
+}
+
+a   {
+    color: #53adc9;
 }
 
 
